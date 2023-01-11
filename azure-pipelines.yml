@@ -3,6 +3,7 @@ trigger:
 
 pool:
   vmImage: 'ubuntu-latest'
+  
 jobs:
 - job: job1
   steps:
